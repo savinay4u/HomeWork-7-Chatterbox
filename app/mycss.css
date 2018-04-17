@@ -1,0 +1,11 @@
+.ErrorImage {
+  display: block;
+  margin-left: 32%;
+  margin-right: 30%;
+  margin-top: 1%;
+}
+
+.ErrorTitle {
+  color: red;
+  text-align: center;
+}
